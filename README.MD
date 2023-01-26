@@ -23,6 +23,9 @@
 + tensorflow.js
 + ml.js
 + ml5
++ Synaptic.js
++ RL.js
+
 
 ### NLP
 + natural.js
